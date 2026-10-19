@@ -4,13 +4,13 @@ Rollno:26000945
 Branch: CSM
 Section:2
 # Selected Case Studies
-Sports Tournament Ranking System
-Hospital Ward Occupancy Monitoring
-Student Email and Identifier Validation
-Integrated Campus Energy and Water Audit
-Student Timetable Conflict Detection
-Smart Public Transport Fare Reconciliation
-Hospital Resource Allocation and Capacity Monitoring
-Examination Result and Grace-Mark Validation
-Student Feedback Sentiment Scoring
-Food Waste Monitoring System
+1.Sports Tournament Ranking System,
+2.Hospital Ward Occupancy Monitoring,
+3.Student Email and Identifier Validation,
+4.Integrated Campus Energy and Water Audit,
+5.Student Timetable Conflict Detection,
+6.Smart Public Transport Fare Reconciliation,
+7.Hospital Resource Allocation and Capacity Monitoring,
+8.Examination Result and Grace-Mark Validation,
+9.Student Feedback Sentiment Scoring,
+10.Food Waste Monitoring System
